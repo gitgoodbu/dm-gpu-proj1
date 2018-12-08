@@ -1,0 +1,14 @@
+Allocs:  0.000135 s
+H:  0.000000 s
+H'H:  0.000001 s
+Solver Startup:  0.185555 s
+H'H copy:  0.000018 s
+mid alloc:  0.000014 s
+LU:  0.000228 s
+LU copy:  0.000060 s
+I copy:  0.000006 s
+Inverse:  0.000085 s
+Inverse copy:  0.000013 s
+Hdag:  0.000001 s
+Weights:  0.000000 s
+Dealloc:  0.058187 s

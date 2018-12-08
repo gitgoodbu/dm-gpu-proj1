@@ -1,0 +1,17 @@
+Host Allocs:  0.000004 s
+Startups:  0.336055 s
+Dev Allocs1:  0.000164 s
+Dev Td:  0.000080 s
+Dev Allocs 2:  0.000063 s
+H_Td kernel:  0.000113 s
+H'H Cgemm:  0.000026 s
+LU:  0.000213 s
+I:  0.000010 s
+Inverse:  0.000057 s
+Pseudoinverse:  0.000023 s
+W:  0.000021 s
+W Retrieved:  0.000040 s
+W =
+W(1,1) = -0.000000-0.337307i
+W(2,1) = -0.337307-1.000000i
+=====
